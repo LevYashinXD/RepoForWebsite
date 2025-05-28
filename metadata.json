@@ -1,0 +1,5 @@
+{
+  "name": "Roblox LuaU Script Genie",
+  "description": "An AI-powered assistant to generate LuaU scripts for various Roblox Studio sections, helping you build games faster. Select a section, describe what you want the script to do, and let the AI write the code for you.",
+  "requestFramePermissions": []
+}
