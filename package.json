@@ -12,8 +12,6 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "@google/genai": "^1.1.0",
-    "highlight.js": "^11.9.0"
-    "highlight.js/lib/languages/lua": "latest",
     "highlight.js": "^11.11.1"
   },
   "devDependencies": {
